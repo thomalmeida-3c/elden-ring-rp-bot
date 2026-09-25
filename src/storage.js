@@ -1,10 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 
-const DATA_PATH = path.join(__dirname, '..', 'data', 'guild.json');
+// DATA_DIR permite apontar pra um disco persistente (ex: na Render) sem mexer no código.
+const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, '..', 'data');
+const DATA_PATH = path.join(DATA_DIR, 'guild.json');
 
 function loadData() {
   if (!fs.existsSync(DATA_PATH)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
     fs.writeFileSync(DATA_PATH, JSON.stringify({}), 'utf-8');
   }
   const raw = fs.readFileSync(DATA_PATH, 'utf-8');
