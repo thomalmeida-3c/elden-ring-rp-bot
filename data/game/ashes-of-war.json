@@ -1,0 +1,548 @@
+[
+  {
+    "id": "99500",
+    "name": "Assassin's Gambit",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-assassins-gambit/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_41.png"
+  },
+  {
+    "id": "99506",
+    "name": "Barbaric Roar",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-barbaric-roar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_88.png"
+  },
+  {
+    "id": "99484",
+    "name": "Barrage",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-barrage/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_74.png"
+  },
+  {
+    "id": "99475",
+    "name": "Barricade Shield",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-barricade-shield/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_51.png"
+  },
+  {
+    "id": "99508",
+    "name": "Beast's Roar",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-beasts-roar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_72.png"
+  },
+  {
+    "id": "99467",
+    "name": "Black Flame Tornado",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-black-flame-tornado/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_20.png"
+  },
+  {
+    "id": "99469",
+    "name": "Blood Blade",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-blood-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_04.png"
+  },
+  {
+    "id": "99434",
+    "name": "Blood Tax",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-blood-tax/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_94.png"
+  },
+  {
+    "id": "99515",
+    "name": "Bloodhound's Step",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-bloodhounds-step/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_16.png"
+  },
+  {
+    "id": "99453",
+    "name": "Bloody Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-bloody-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_37.png"
+  },
+  {
+    "id": "99510",
+    "name": "Braggart's Roar",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-braggarts-roar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_56.png"
+  },
+  {
+    "id": "99464",
+    "name": "Carian Grandeur",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-carian-grandeur/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_44.png"
+  },
+  {
+    "id": "99465",
+    "name": "Carian Greatsword",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-carian-greatsword/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_36.png"
+  },
+  {
+    "id": "99477",
+    "name": "Carian Retaliation",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-carian-retaliation/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_35.png"
+  },
+  {
+    "id": "99431",
+    "name": "Charge Forth",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-charge-forth/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_23.png"
+  },
+  {
+    "id": "99472",
+    "name": "Chilling Mist",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-chilling-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_55.png"
+  },
+  {
+    "id": "99505",
+    "name": "Cragblade",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-cragblade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_01.png"
+  },
+  {
+    "id": "99498",
+    "name": "Determination",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-determination/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_57.png"
+  },
+  {
+    "id": "99438",
+    "name": "Double Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-double-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_62.png"
+  },
+  {
+    "id": "99459",
+    "name": "Earthshaker",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-earthshaker/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_84.png"
+  },
+  {
+    "id": "99486",
+    "name": "Enchanted Shot",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-enchanted-shot/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_58.png"
+  },
+  {
+    "id": "99511",
+    "name": "Endure",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-endure/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_48.png"
+  },
+  {
+    "id": "99455",
+    "name": "Eruption",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-eruption/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_21.png"
+  },
+  {
+    "id": "99493",
+    "name": "Flame of the Redmanes",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-flame-of-the-redmanes/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_02.png"
+  },
+  {
+    "id": "99461",
+    "name": "Flaming Strike",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-flaming-strike/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_68.png"
+  },
+  {
+    "id": "99442",
+    "name": "Giant Hunt",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-giant-hunt/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_30.png"
+  },
+  {
+    "id": "99449",
+    "name": "Glintblade Phalanx",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-glintblade-phalanx/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_69.png"
+  },
+  {
+    "id": "99452",
+    "name": "Glintstone Pebble",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-glintstone-pebble/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_45.png"
+  },
+  {
+    "id": "99460",
+    "name": "Golden Land",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-golden-land/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_76.png"
+  },
+  {
+    "id": "99479",
+    "name": "Golden Parry",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-golden-parry/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_19.png"
+  },
+  {
+    "id": "99495",
+    "name": "Golden Slam",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-golden-slam/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_81.png"
+  },
+  {
+    "id": "99501",
+    "name": "Golden Vow",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-golden-vow/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_33.png"
+  },
+  {
+    "id": "99457",
+    "name": "Gravitas",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-gravitas/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_05.png"
+  },
+  {
+    "id": "99494",
+    "name": "Ground Slam",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-ground-slam/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_89.png"
+  },
+  {
+    "id": "99497",
+    "name": "Hoarah Loux's Earthshaker",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-hoarah-louxs-earthshaker/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_65.png"
+  },
+  {
+    "id": "99489",
+    "name": "Hoarfrost Stomp",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-hoarfrost-stomp/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_34.png"
+  },
+  {
+    "id": "99513",
+    "name": "Holy Ground",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-holy-ground/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_32.png"
+  },
+  {
+    "id": "99451",
+    "name": "Ice Spear",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-ice-spear/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_53.png"
+  },
+  {
+    "id": "99428",
+    "name": "Impaling Thrust",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-impaling-thrust/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_47.png"
+  },
+  {
+    "id": "99491",
+    "name": "Kick",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-kick/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_18.png"
+  },
+  {
+    "id": "99454",
+    "name": "Lifesteal Fist",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-lifesteal-fist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_29.png"
+  },
+  {
+    "id": "99492",
+    "name": "Lightning Ram",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-lightning-ram/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_10.png"
+  },
+  {
+    "id": "99463",
+    "name": "Lightning Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-lightning-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_52.png"
+  },
+  {
+    "id": "99427",
+    "name": "Lion's Claw",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-lions-claw/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_75.png"
+  },
+  {
+    "id": "99443",
+    "name": "Loretta's Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-lorettas-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_22.png"
+  },
+  {
+    "id": "99485",
+    "name": "Mighty Shot",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-mighty-shot/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_66.png"
+  },
+  {
+    "id": "99481",
+    "name": "No Skill",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-no-skill/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_03.png"
+  },
+  {
+    "id": "99476",
+    "name": "Parry",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-parry/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_43.png"
+  },
+  {
+    "id": "99470",
+    "name": "Phantom Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-phantom-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_91.png"
+  },
+  {
+    "id": "99429",
+    "name": "Piercing Fang",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-piercing-fang/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_39.png"
+  },
+  {
+    "id": "99444",
+    "name": "Poison Moth Flight",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-poison-moth-flight/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_14.png"
+  },
+  {
+    "id": "99473",
+    "name": "Poisonous Mist",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-poisonous-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_67.png"
+  },
+  {
+    "id": "99456",
+    "name": "Prayerful Strike",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-prayerful-strike/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_13.png"
+  },
+  {
+    "id": "99439",
+    "name": "Prelate's Charge",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-prelates-charge/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_54.png"
+  },
+  {
+    "id": "99514",
+    "name": "Quickstep",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-quickstep/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_24.png"
+  },
+  {
+    "id": "99488",
+    "name": "Rain of Arrows",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-rain-of-arrows/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_42.png"
+  },
+  {
+    "id": "99516",
+    "name": "Raptor of the Mists",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-raptor-of-the-mists/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_08.png"
+  },
+  {
+    "id": "99435",
+    "name": "Repeating Thrust",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-repeating-thrust/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_86.png"
+  },
+  {
+    "id": "99499",
+    "name": "Royal Knight's Resolve",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-royal-knights-resolve/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_49.png"
+  },
+  {
+    "id": "99450",
+    "name": "Sacred Blade",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-sacred-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_61.png"
+  },
+  {
+    "id": "99502",
+    "name": "Sacred Order",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-sacred-order/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_25.png"
+  },
+  {
+    "id": "99468",
+    "name": "Sacred Ring of Light",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-sacred-ring-of-light/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_12.png"
+  },
+  {
+    "id": "99504",
+    "name": "Seppuku",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-seppuku/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_09.png"
+  },
+  {
+    "id": "99503",
+    "name": "Shared Order",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-shared-order/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_17.png"
+  },
+  {
+    "id": "99474",
+    "name": "Shield Bash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-shield-bash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_59.png"
+  },
+  {
+    "id": "99480",
+    "name": "Shield Crash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-shield-crash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_11.png"
+  },
+  {
+    "id": "99487",
+    "name": "Sky Shot",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-sky-shot/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_50.png"
+  },
+  {
+    "id": "99471",
+    "name": "Spectral Lance",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-spectral-lance/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_83.png"
+  },
+  {
+    "id": "99430",
+    "name": "Spinning Slash",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-spinning-slash/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_31.png"
+  },
+  {
+    "id": "99437",
+    "name": "Spinning Strikes",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-spinning-strikes/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_70.png"
+  },
+  {
+    "id": "99445",
+    "name": "Spinning Weapon",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-spinning-weapon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_06.png"
+  },
+  {
+    "id": "99441",
+    "name": "Square Off",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-square-off/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_38.png"
+  },
+  {
+    "id": "99433",
+    "name": "Stamp (Sweep)",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-stamp-sweep/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_07.png"
+  },
+  {
+    "id": "99432",
+    "name": "Stamp (Upward Cut)",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-stamp-upward-cut/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_15.png"
+  },
+  {
+    "id": "99446",
+    "name": "Storm Assault",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-storm-assault/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_93.png"
+  },
+  {
+    "id": "99458",
+    "name": "Storm Blade",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-storm-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_92.png"
+  },
+  {
+    "id": "99490",
+    "name": "Storm Stomp",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-storm-stomp/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_26.png"
+  },
+  {
+    "id": "99478",
+    "name": "Storm Wall",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-storm-wall/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_27.png"
+  },
+  {
+    "id": "99447",
+    "name": "Stormcaller",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-stormcaller/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_85.png"
+  },
+  {
+    "id": "99448",
+    "name": "Sword Dance",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-sword-dance/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_77.png"
+  },
+  {
+    "id": "99482",
+    "name": "Thops's Barrier",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-thopss-barrier/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_90.png"
+  },
+  {
+    "id": "99483",
+    "name": "Through and Through",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-through-and-through/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_82.png"
+  },
+  {
+    "id": "99462",
+    "name": "Thunderbolt",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-thunderbolt/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_60.png"
+  },
+  {
+    "id": "99509",
+    "name": "Troll's Roar",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-trolls-roar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_64.png"
+  },
+  {
+    "id": "99440",
+    "name": "Unsheathe",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-unsheathe/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_46.png"
+  },
+  {
+    "id": "99466",
+    "name": "Vacuum Slice",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-vacuum-slice/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_28.png"
+  },
+  {
+    "id": "99512",
+    "name": "Vow of the Indomitable",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-vow-of-the-indomitable/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_40.png"
+  },
+  {
+    "id": "99507",
+    "name": "War Cry",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-war-cry/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_80.png"
+  },
+  {
+    "id": "99496",
+    "name": "Waves of Darkness",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-waves-of-darkness/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_73.png"
+  },
+  {
+    "id": "99517",
+    "name": "White Shadow's Lure",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-white-shadows-lure/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_00.png"
+  },
+  {
+    "id": "99436",
+    "name": "Wild Strikes",
+    "link": "https://eip.gg/elden-ring/db/ash-of-war-wild-strikes/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/AOW_78.png"
+  }
+]

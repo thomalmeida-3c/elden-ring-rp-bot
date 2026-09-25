@@ -1,0 +1,1926 @@
+[
+  {
+    "id": "94928",
+    "name": "Adula’s Moonblade",
+    "link": "https://eip.gg/elden-ring/db/adulas-moonblade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_180.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 32
+    },
+    "slots": 1
+  },
+  {
+    "id": "95037",
+    "name": "Agheel’s Flame",
+    "link": "https://eip.gg/elden-ring/db/agheels-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_130.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 23,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94938",
+    "name": "Ambush Shard",
+    "link": "https://eip.gg/elden-ring/db/ambush-shard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_065.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 23
+    },
+    "slots": 1
+  },
+  {
+    "id": "94958",
+    "name": "Ancient Death Rancor",
+    "link": "https://eip.gg/elden-ring/db/ancient-death-rancor/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_041.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 34,
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "95030",
+    "name": "Ancient Dragons’ Lightning Spear",
+    "link": "https://eip.gg/elden-ring/db/ancient-dragons-lightning-spear/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_016.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 32
+    },
+    "slots": 1
+  },
+  {
+    "id": "95026",
+    "name": "Ancient Dragons’ Lightning Strike",
+    "link": "https://eip.gg/elden-ring/db/ancient-dragons-lightning-strike/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_131.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 26
+    },
+    "slots": 1
+  },
+  {
+    "id": "95062",
+    "name": "Aspects of the Crucible: Breath",
+    "link": "https://eip.gg/elden-ring/db/aspects-of-the-crucible-breath/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_215.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "95061",
+    "name": "Aspects of the Crucible: Horns",
+    "link": "https://eip.gg/elden-ring/db/aspects-of-the-crucible-horns/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_238.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "95060",
+    "name": "Aspects of the Crucible: Tail",
+    "link": "https://eip.gg/elden-ring/db/aspects-of-the-crucible-tail/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_261.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "95005",
+    "name": "Assassin’s Approach",
+    "link": "https://eip.gg/elden-ring/db/assassins-approach/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_171.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94986",
+    "name": "Barrier of Gold",
+    "link": "https://eip.gg/elden-ring/db/barrier-of-gold/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_194.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "95021",
+    "name": "Beast Claw",
+    "link": "https://eip.gg/elden-ring/db/beast-claw/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_079.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 8
+    },
+    "slots": 1
+  },
+  {
+    "id": "95024",
+    "name": "Bestial Constitution",
+    "link": "https://eip.gg/elden-ring/db/bestial-constitution/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_239.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 9
+    },
+    "slots": 1
+  },
+  {
+    "id": "95019",
+    "name": "Bestial Sling",
+    "link": "https://eip.gg/elden-ring/db/bestial-sling/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_125.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "95023",
+    "name": "Bestial Vitality",
+    "link": "https://eip.gg/elden-ring/db/bestial-vitality/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_262.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95063",
+    "name": "Black Blade",
+    "link": "https://eip.gg/elden-ring/db/black-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_008.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 46
+    },
+    "slots": 2
+  },
+  {
+    "id": "94976",
+    "name": "Black Flame",
+    "link": "https://eip.gg/elden-ring/db/black-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_059.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 20
+    },
+    "slots": 1
+  },
+  {
+    "id": "94980",
+    "name": "Black Flame Blade",
+    "link": "https://eip.gg/elden-ring/db/black-flame-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_034.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94979",
+    "name": "Black Flame Ritual",
+    "link": "https://eip.gg/elden-ring/db/black-flame-ritual/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_081.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 42
+    },
+    "slots": 1
+  },
+  {
+    "id": "94981",
+    "name": "Black Flame’s Protection",
+    "link": "https://eip.gg/elden-ring/db/black-flames-protection/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_217.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 30
+    },
+    "slots": 1
+  },
+  {
+    "id": "94996",
+    "name": "Blessing of the Erdtree",
+    "link": "https://eip.gg/elden-ring/db/blessing-of-the-erdtree/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_057.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 38
+    },
+    "slots": 1
+  },
+  {
+    "id": "94995",
+    "name": "Blessing’s Boon",
+    "link": "https://eip.gg/elden-ring/db/blessings-boon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_080.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "94984",
+    "name": "Bloodboon",
+    "link": "https://eip.gg/elden-ring/db/bloodboon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_241.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 14,
+      "Arcane": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94985",
+    "name": "Bloodflame Blade",
+    "link": "https://eip.gg/elden-ring/db/bloodflame-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_011.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12,
+      "Arcane": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94983",
+    "name": "Bloodflame Talons",
+    "link": "https://eip.gg/elden-ring/db/bloodflame-talons/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_155.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 13,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "95041",
+    "name": "Borealis’s Mist",
+    "link": "https://eip.gg/elden-ring/db/borealiss-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_061.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 23,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94956",
+    "name": "Briars of Punishment",
+    "link": "https://eip.gg/elden-ring/db/briars-of-punishment/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_087.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Faith": 21
+    },
+    "slots": 1
+  },
+  {
+    "id": "95278",
+    "name": "Briars of Sin",
+    "link": "https://eip.gg/elden-ring/db/briars-of-sin/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_110.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "94975",
+    "name": "Burn, O Flame!",
+    "link": "https://eip.gg/elden-ring/db/burn-o-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_150.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 27,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94904",
+    "name": "Cannon of Haima",
+    "link": "https://eip.gg/elden-ring/db/cannon-of-haima/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_227.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 25
+    },
+    "slots": 1
+  },
+  {
+    "id": "94927",
+    "name": "Carian Greatsword",
+    "link": "https://eip.gg/elden-ring/db/carian-greatsword/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_018.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "94916",
+    "name": "Carian Phalanx",
+    "link": "https://eip.gg/elden-ring/db/carian-phalanx/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_089.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 34
+    },
+    "slots": 1
+  },
+  {
+    "id": "94930",
+    "name": "Carian Piercer",
+    "link": "https://eip.gg/elden-ring/db/carian-piercer/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_247.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "94942",
+    "name": "Carian Retaliation",
+    "link": "https://eip.gg/elden-ring/db/carian-retaliation/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_248.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94929",
+    "name": "Carian Slicer",
+    "link": "https://eip.gg/elden-ring/db/carian-slicer/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_270.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 14
+    },
+    "slots": 1
+  },
+  {
+    "id": "94965",
+    "name": "Catch Flame",
+    "link": "https://eip.gg/elden-ring/db/catch-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_128.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 8
+    },
+    "slots": 1
+  },
+  {
+    "id": "94950",
+    "name": "Collapsing Stars",
+    "link": "https://eip.gg/elden-ring/db/collapsing-stars/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_156.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 36
+    },
+    "slots": 1
+  },
+  {
+    "id": "94898",
+    "name": "Comet",
+    "link": "https://eip.gg/elden-ring/db/comet/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_251.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 52
+    },
+    "slots": 1
+  },
+  {
+    "id": "94911",
+    "name": "Comet Azur",
+    "link": "https://eip.gg/elden-ring/db/comet-azur/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_067.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 60
+    },
+    "slots": 3
+  },
+  {
+    "id": "94902",
+    "name": "Crystal Barrage",
+    "link": "https://eip.gg/elden-ring/db/crystal-barrage/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_136.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 23
+    },
+    "slots": 1
+  },
+  {
+    "id": "94905",
+    "name": "Crystal Burst",
+    "link": "https://eip.gg/elden-ring/db/crystal-burst/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_182.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94936",
+    "name": "Crystal Release",
+    "link": "https://eip.gg/elden-ring/db/crystal-release/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_111.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 41
+    },
+    "slots": 1
+  },
+  {
+    "id": "94937",
+    "name": "Crystal Torrent",
+    "link": "https://eip.gg/elden-ring/db/crystal-torrent/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_088.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 47
+    },
+    "slots": 1
+  },
+  {
+    "id": "94997",
+    "name": "Cure Poison",
+    "link": "https://eip.gg/elden-ring/db/cure-poison/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_132.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "95007",
+    "name": "Darkness",
+    "link": "https://eip.gg/elden-ring/db/darkness/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_086.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94962",
+    "name": "Death Lightning",
+    "link": "https://eip.gg/elden-ring/db/death-lightning/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_174.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 47
+    },
+    "slots": 2
+  },
+  {
+    "id": "95009",
+    "name": "Discus of Light",
+    "link": "https://eip.gg/elden-ring/db/discus-of-light/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_012.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 13,
+      "Faith": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "95002",
+    "name": "Divine Fortification",
+    "link": "https://eip.gg/elden-ring/db/divine-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_054.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "95035",
+    "name": "Dragonbolt Blessing",
+    "link": "https://eip.gg/elden-ring/db/dragonbolt-blessing/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_176.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 21
+    },
+    "slots": 1
+  },
+  {
+    "id": "95047",
+    "name": "Dragonclaw",
+    "link": "https://eip.gg/elden-ring/db/dragonclaw/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_198.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 17,
+      "Arcane": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "95036",
+    "name": "Dragonfire",
+    "link": "https://eip.gg/elden-ring/db/dragonfire/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_153.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15,
+      "Arcane": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95040",
+    "name": "Dragonice",
+    "link": "https://eip.gg/elden-ring/db/dragonice/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_084.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15,
+      "Arcane": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95048",
+    "name": "Dragonmaw",
+    "link": "https://eip.gg/elden-ring/db/dragonmaw/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_175.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24,
+      "Arcane": 16
+    },
+    "slots": 1
+  },
+  {
+    "id": "95043",
+    "name": "Ekzykes’s Decay",
+    "link": "https://eip.gg/elden-ring/db/ekzykess-decay/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_015.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 23,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "95012",
+    "name": "Elden Stars",
+    "link": "https://eip.gg/elden-ring/db/elden-stars/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_269.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 50
+    },
+    "slots": 2
+  },
+  {
+    "id": "95033",
+    "name": "Electrify Armament",
+    "link": "https://eip.gg/elden-ring/db/electrify-armament/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_222.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94994",
+    "name": "Erdtree Heal",
+    "link": "https://eip.gg/elden-ring/db/erdtree-heal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_126.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 42
+    },
+    "slots": 1
+  },
+  {
+    "id": "94943",
+    "name": "Eternal Darkness",
+    "link": "https://eip.gg/elden-ring/db/eternal-darkness/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_225.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 35
+    },
+    "slots": 1
+  },
+  {
+    "id": "94959",
+    "name": "Explosive Ghostflame",
+    "link": "https://eip.gg/elden-ring/db/explosive-ghostflame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_224.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 42,
+      "Faith": 30
+    },
+    "slots": 1
+  },
+  {
+    "id": "94960",
+    "name": "Fia’s Mist",
+    "link": "https://eip.gg/elden-ring/db/fias-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_201.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 23,
+      "Faith": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "95064",
+    "name": "Fire’s Deadly Sin",
+    "link": "https://eip.gg/elden-ring/db/fires-deadly-sin/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_063.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 19
+    },
+    "slots": 1
+  },
+  {
+    "id": "94999",
+    "name": "Flame Fortification",
+    "link": "https://eip.gg/elden-ring/db/flame-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_123.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94974",
+    "name": "Flame of the Fell God",
+    "link": "https://eip.gg/elden-ring/db/flame-of-the-fell-god/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_242.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 41
+    },
+    "slots": 2
+  },
+  {
+    "id": "94967",
+    "name": "Flame Sling",
+    "link": "https://eip.gg/elden-ring/db/flame-sling/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_082.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94970",
+    "name": "Flame, Cleanse Me",
+    "link": "https://eip.gg/elden-ring/db/flame-cleanse-me/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_229-1.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94968",
+    "name": "Flame, Fall Upon Them",
+    "link": "https://eip.gg/elden-ring/db/flame-fall-upon-them/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_265.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 28,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94971",
+    "name": "Flame, Grant Me Strength",
+    "link": "https://eip.gg/elden-ring/db/flame-grant-me-strength/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_263.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94972",
+    "name": "Flame, Protect Me",
+    "link": "https://eip.gg/elden-ring/db/flame-protect-me/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_240.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "95031",
+    "name": "Fortissax’s Lightning Spear",
+    "link": "https://eip.gg/elden-ring/db/fortissaxs-lightning-spear/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_268.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 46
+    },
+    "slots": 1
+  },
+  {
+    "id": "94913",
+    "name": "Founding Rain of Stars",
+    "link": "https://eip.gg/elden-ring/db/founding-rain-of-stars/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_135.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 52
+    },
+    "slots": 2
+  },
+  {
+    "id": "94926",
+    "name": "Freezing Mist",
+    "link": "https://eip.gg/elden-ring/db/freezing-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_203.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 21
+    },
+    "slots": 1
+  },
+  {
+    "id": "95058",
+    "name": "Frenzied Burst",
+    "link": "https://eip.gg/elden-ring/db/frenzied-burst/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_060.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 22
+    },
+    "slots": 1
+  },
+  {
+    "id": "94934",
+    "name": "Frozen Armament",
+    "link": "https://eip.gg/elden-ring/db/frozen-armament/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_147.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "95028",
+    "name": "Frozen Lightning Spear",
+    "link": "https://eip.gg/elden-ring/db/frozen-lightning-spear/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_062.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 34
+    },
+    "slots": 1
+  },
+  {
+    "id": "94908",
+    "name": "Gavel of Haima",
+    "link": "https://eip.gg/elden-ring/db/gavel-of-haima/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_158.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 25
+    },
+    "slots": 1
+  },
+  {
+    "id": "94952",
+    "name": "Gelmir’s Fury",
+    "link": "https://eip.gg/elden-ring/db/gelmirs-fury/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_127.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 28,
+      "Faith": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94973",
+    "name": "Giantsflame Take Thee",
+    "link": "https://eip.gg/elden-ring/db/giantsflame-take-thee/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_036.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 30
+    },
+    "slots": 2
+  },
+  {
+    "id": "94915",
+    "name": "Glintblade Phalanx",
+    "link": "https://eip.gg/elden-ring/db/glintblade-phalanx-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_205.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 22
+    },
+    "slots": 1
+  },
+  {
+    "id": "94903",
+    "name": "Glintstone Arc",
+    "link": "https://eip.gg/elden-ring/db/glintstone-arc/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_021.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "95044",
+    "name": "Glintstone Breath",
+    "link": "https://eip.gg/elden-ring/db/glintstone-breath/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_267.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15,
+      "Arcane": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94897",
+    "name": "Glintstone Cometshard",
+    "link": "https://eip.gg/elden-ring/db/glintstone-cometshard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_274.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 36
+    },
+    "slots": 1
+  },
+  {
+    "id": "94924",
+    "name": "Glintstone Icecrag",
+    "link": "https://eip.gg/elden-ring/db/glintstone-icecrag/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_249.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94894",
+    "name": "Glintstone Pebble",
+    "link": "https://eip.gg/elden-ring/db/glintstone-pebble/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_045.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94900",
+    "name": "Glintstone Stars",
+    "link": "https://eip.gg/elden-ring/db/glintstone-stars/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_113.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95065",
+    "name": "Golden Lightning Fortification",
+    "link": "https://eip.gg/elden-ring/db/golden-lightning-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_146.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "95008",
+    "name": "Golden Vow",
+    "link": "https://eip.gg/elden-ring/db/golden-vow/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_216.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 25
+    },
+    "slots": 1
+  },
+  {
+    "id": "94949",
+    "name": "Gravity Well",
+    "link": "https://eip.gg/elden-ring/db/gravity-well/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_179.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94895",
+    "name": "Great Glintstone Shard",
+    "link": "https://eip.gg/elden-ring/db/great-glintstone-shard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_273.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 16
+    },
+    "slots": 1
+  },
+  {
+    "id": "94992",
+    "name": "Great Heal",
+    "link": "https://eip.gg/elden-ring/db/great-heal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_193.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94964",
+    "name": "Great Oracular Bubble",
+    "link": "https://eip.gg/elden-ring/db/great-oracular-bubble/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_101.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 25,
+      "Arcane": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94917",
+    "name": "Greatblade Phalanx",
+    "link": "https://eip.gg/elden-ring/db/greatblade-phalanx/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_066.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 29
+    },
+    "slots": 1
+  },
+  {
+    "id": "95049",
+    "name": "Greyoll’s Roar",
+    "link": "https://eip.gg/elden-ring/db/greyolls-roar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_152.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 28,
+      "Arcane": 17
+    },
+    "slots": 2
+  },
+  {
+    "id": "95022",
+    "name": "Gurranq’s Beast Claw",
+    "link": "https://eip.gg/elden-ring/db/gurranqs-beast-claw/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_056.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94991",
+    "name": "Heal",
+    "link": "https://eip.gg/elden-ring/db/heal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_149.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95029",
+    "name": "Honed Bolt",
+    "link": "https://eip.gg/elden-ring/db/honed-bolt/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_039.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "95059",
+    "name": "Howl of Shabriri",
+    "link": "https://eip.gg/elden-ring/db/howl-of-shabriri/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_037.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 33
+    },
+    "slots": 1
+  },
+  {
+    "id": "95014",
+    "name": "Immutable Shield",
+    "link": "https://eip.gg/elden-ring/db/immutable-shield/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_223.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 19,
+      "Faith": 19
+    },
+    "slots": 1
+  },
+  {
+    "id": "95055",
+    "name": "Inescapable Frenzy",
+    "link": "https://eip.gg/elden-ring/db/inescapable-frenzy/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_129.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 21
+    },
+    "slots": 1
+  },
+  {
+    "id": "95032",
+    "name": "Lansseax’s Glaive",
+    "link": "https://eip.gg/elden-ring/db/lansseaxs-glaive/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_245.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 40
+    },
+    "slots": 1
+  },
+  {
+    "id": "95016",
+    "name": "Law of Causality",
+    "link": "https://eip.gg/elden-ring/db/law-of-causality/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_200.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 29
+    },
+    "slots": 1
+  },
+  {
+    "id": "95013",
+    "name": "Law of Regression",
+    "link": "https://eip.gg/elden-ring/db/law-of-regression/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_246.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 37
+    },
+    "slots": 1
+  },
+  {
+    "id": "95001",
+    "name": "Lightning Fortification",
+    "link": "https://eip.gg/elden-ring/db/lightning-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_077.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "95025",
+    "name": "Lightning Spear",
+    "link": "https://eip.gg/elden-ring/db/lightning-spear/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_033.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "95027",
+    "name": "Lightning Strike",
+    "link": "https://eip.gg/elden-ring/db/lightning-strike/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_010.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 28
+    },
+    "slots": 1
+  },
+  {
+    "id": "95015",
+    "name": "Litany of Proper Death",
+    "link": "https://eip.gg/elden-ring/db/litany-of-proper-death/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_195.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 17,
+      "Faith": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94998",
+    "name": "Lord’s Aid",
+    "link": "https://eip.gg/elden-ring/db/lords-aid/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_109.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95003",
+    "name": "Lord’s Divine Fortification",
+    "link": "https://eip.gg/elden-ring/db/lords-divine-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_031.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "94993",
+    "name": "Lord’s Heal",
+    "link": "https://eip.gg/elden-ring/db/lords-heal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_170.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 20
+    },
+    "slots": 1
+  },
+  {
+    "id": "94921",
+    "name": "Loretta’s Greatbow",
+    "link": "https://eip.gg/elden-ring/db/lorettas-greatbow/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_044.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 26
+    },
+    "slots": 1
+  },
+  {
+    "id": "94922",
+    "name": "Loretta’s Mastery",
+    "link": "https://eip.gg/elden-ring/db/lorettas-mastery/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_020.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 46
+    },
+    "slots": 1
+  },
+  {
+    "id": "94933",
+    "name": "Lucidity",
+    "link": "https://eip.gg/elden-ring/db/lucidity/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_157.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 17
+    },
+    "slots": 1
+  },
+  {
+    "id": "94920",
+    "name": "Magic Downpour",
+    "link": "https://eip.gg/elden-ring/db/magic-downpour/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_090.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "95000",
+    "name": "Magic Fortification",
+    "link": "https://eip.gg/elden-ring/db/magic-fortification/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_100.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94923",
+    "name": "Magic Glintblade",
+    "link": "https://eip.gg/elden-ring/db/magic-glintblade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_272.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 14
+    },
+    "slots": 1
+  },
+  {
+    "id": "95038",
+    "name": "Magma Breath",
+    "link": "https://eip.gg/elden-ring/db/magma-breath/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_107.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 14,
+      "Arcane": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94951",
+    "name": "Magma Shot",
+    "link": "https://eip.gg/elden-ring/db/magma-shot/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_013.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 19,
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "94946",
+    "name": "Meteorite",
+    "link": "https://eip.gg/elden-ring/db/meteorite/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_108.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 30
+    },
+    "slots": 1
+  },
+  {
+    "id": "94947",
+    "name": "Meteorite of Astel",
+    "link": "https://eip.gg/elden-ring/db/meteorite-of-astel/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_202.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 55
+    },
+    "slots": 2
+  },
+  {
+    "id": "94940",
+    "name": "Night Comet",
+    "link": "https://eip.gg/elden-ring/db/night-comet/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_019.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 38
+    },
+    "slots": 1
+  },
+  {
+    "id": "95004",
+    "name": "Night Maiden’s Mist",
+    "link": "https://eip.gg/elden-ring/db/night-maidens-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_264.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 14
+    },
+    "slots": 1
+  },
+  {
+    "id": "94939",
+    "name": "Night Shard",
+    "link": "https://eip.gg/elden-ring/db/night-shard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_042.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94982",
+    "name": "Noble Presence",
+    "link": "https://eip.gg/elden-ring/db/noble-presence/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_178.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 26
+    },
+    "slots": 1
+  },
+  {
+    "id": "94966",
+    "name": "O, Flame!",
+    "link": "https://eip.gg/elden-ring/db/o-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_105.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 16,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94963",
+    "name": "Oracle Bubbles",
+    "link": "https://eip.gg/elden-ring/db/oracle-bubbles/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_124.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 19,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "95018",
+    "name": "Order Healing",
+    "link": "https://eip.gg/elden-ring/db/order-healing/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_154.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 11,
+      "Faith": 11
+    },
+    "slots": 1
+  },
+  {
+    "id": "95017",
+    "name": "Order’s Blade",
+    "link": "https://eip.gg/elden-ring/db/orders-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_177.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 13,
+      "Faith": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "95050",
+    "name": "Pest Threads",
+    "link": "https://eip.gg/elden-ring/db/pest-threads/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_078.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 11
+    },
+    "slots": 1
+  },
+  {
+    "id": "95046",
+    "name": "Placidusax’s Ruin",
+    "link": "https://eip.gg/elden-ring/db/placidusaxs-ruin/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_221.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 36
+    },
+    "slots": 3
+  },
+  {
+    "id": "95053",
+    "name": "Poison Armament",
+    "link": "https://eip.gg/elden-ring/db/poison-armament/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_009.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 10
+    },
+    "slots": 1
+  },
+  {
+    "id": "95052",
+    "name": "Poison Mist",
+    "link": "https://eip.gg/elden-ring/db/poison-mist/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_055.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94987",
+    "name": "Protection of the Erdtree",
+    "link": "https://eip.gg/elden-ring/db/protection-of-the-erdtree/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_218.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 35
+    },
+    "slots": 1
+  },
+  {
+    "id": "95011",
+    "name": "Radagon’s Rings of Light",
+    "link": "https://eip.gg/elden-ring/db/radagons-rings-of-light/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_017.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 31,
+      "Faith": 31
+    },
+    "slots": 1
+  },
+  {
+    "id": "94957",
+    "name": "Rancorcall",
+    "link": "https://eip.gg/elden-ring/db/rancorcall/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_064.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 16,
+      "Faith": 14
+    },
+    "slots": 1
+  },
+  {
+    "id": "94919",
+    "name": "Ranni’s Dark Moon",
+    "link": "https://eip.gg/elden-ring/db/rannis-dark-moon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_043.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 68
+    },
+    "slots": 2
+  },
+  {
+    "id": "94988",
+    "name": "Rejection",
+    "link": "https://eip.gg/elden-ring/db/rejection/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_058.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94918",
+    "name": "Rennala’s Full Moon",
+    "link": "https://eip.gg/elden-ring/db/rennalas-full-moon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_159.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 70
+    },
+    "slots": 2
+  },
+  {
+    "id": "94907",
+    "name": "Rock Blaster",
+    "link": "https://eip.gg/elden-ring/db/rock-blaster/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_181.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 21
+    },
+    "slots": 1
+  },
+  {
+    "id": "94948",
+    "name": "Rock Sling",
+    "link": "https://eip.gg/elden-ring/db/rock-sling/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_085.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94953",
+    "name": "Roiling Magma",
+    "link": "https://eip.gg/elden-ring/db/roiling-magma/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_104.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 21,
+      "Faith": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "95042",
+    "name": "Rotten Breath",
+    "link": "https://eip.gg/elden-ring/db/rotten-breath/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_038.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 15,
+      "Arcane": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94954",
+    "name": "Rykard’s Rancor",
+    "link": "https://eip.gg/elden-ring/db/rykards-rancor/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_133.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 40,
+      "Faith": 18
+    },
+    "slots": 2
+  },
+  {
+    "id": "95054",
+    "name": "Scarlet Aeonia",
+    "link": "https://eip.gg/elden-ring/db/scarlet-aeonia/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_260.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 35
+    },
+    "slots": 3
+  },
+  {
+    "id": "94931",
+    "name": "Scholar’s Armament",
+    "link": "https://eip.gg/elden-ring/db/scholars-armament/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_266.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94932",
+    "name": "Scholar’s Shield",
+    "link": "https://eip.gg/elden-ring/db/scholars-shield/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_243.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94978",
+    "name": "Scouring Black Flame",
+    "link": "https://eip.gg/elden-ring/db/scouring-black-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_173.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 28
+    },
+    "slots": 1
+  },
+  {
+    "id": "95006",
+    "name": "Shadow Bait",
+    "link": "https://eip.gg/elden-ring/db/shadow-bait/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_148.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "94899",
+    "name": "Shard Spiral",
+    "link": "https://eip.gg/elden-ring/db/shard-spiral/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_228.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 27
+    },
+    "slots": 1
+  },
+  {
+    "id": "94906",
+    "name": "Shatter Earth",
+    "link": "https://eip.gg/elden-ring/db/shatter-earth/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_204.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94935",
+    "name": "Shattering Crystal",
+    "link": "https://eip.gg/elden-ring/db/shattering-crystal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_134.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 38
+    },
+    "slots": 1
+  },
+  {
+    "id": "95045",
+    "name": "Smarag’s Glintstone Breath",
+    "link": "https://eip.gg/elden-ring/db/smarags-glintstone-breath/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_244.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 23,
+      "Arcane": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94901",
+    "name": "Star Shower",
+    "link": "https://eip.gg/elden-ring/db/star-shower/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_250.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 24
+    },
+    "slots": 1
+  },
+  {
+    "id": "94910",
+    "name": "Starlight",
+    "link": "https://eip.gg/elden-ring/db/starlight/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_220.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 15
+    },
+    "slots": 1
+  },
+  {
+    "id": "94914",
+    "name": "Stars of Ruin",
+    "link": "https://eip.gg/elden-ring/db/stars-of-ruin/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_112.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 43
+    },
+    "slots": 1
+  },
+  {
+    "id": "95020",
+    "name": "Stone of Gurranq",
+    "link": "https://eip.gg/elden-ring/db/stone-of-gurranq/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_102.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 13
+    },
+    "slots": 1
+  },
+  {
+    "id": "94977",
+    "name": "Surge, O Flame!",
+    "link": "https://eip.gg/elden-ring/db/surge-o-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_219.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 9,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "95051",
+    "name": "Swarm of Flies",
+    "link": "https://eip.gg/elden-ring/db/swarm-of-flies/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_032.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 11,
+      "Arcane": 16
+    },
+    "slots": 1
+  },
+  {
+    "id": "94896",
+    "name": "Swift Glintstone Shard",
+    "link": "https://eip.gg/elden-ring/db/swift-glintstone-shard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_022.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94909",
+    "name": "Terra Magicus",
+    "link": "https://eip.gg/elden-ring/db/terra-magicus/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_197.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 20
+    },
+    "slots": 1
+  },
+  {
+    "id": "95056",
+    "name": "The Flame of Frenzy",
+    "link": "https://eip.gg/elden-ring/db/the-flame-of-frenzy/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_106.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 16
+    },
+    "slots": 1
+  },
+  {
+    "id": "95039",
+    "name": "Theodorix’s Magma",
+    "link": "https://eip.gg/elden-ring/db/theodorixs-magma/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_151.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 21,
+      "Arcane": 14
+    },
+    "slots": 1
+  },
+  {
+    "id": "94941",
+    "name": "Thops’s Barrier",
+    "link": "https://eip.gg/elden-ring/db/thopss-barrier/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_271.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 18
+    },
+    "slots": 1
+  },
+  {
+    "id": "94961",
+    "name": "Tibia’s Summons",
+    "link": "https://eip.gg/elden-ring/db/tibias-summons/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_014.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 28,
+      "Faith": 20
+    },
+    "slots": 1
+  },
+  {
+    "id": "95010",
+    "name": "Triple Rings of Light",
+    "link": "https://eip.gg/elden-ring/db/triple-rings-of-light/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_040.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Intelligence": 23,
+      "Faith": 23
+    },
+    "slots": 1
+  },
+  {
+    "id": "95057",
+    "name": "Unendurable Frenzy",
+    "link": "https://eip.gg/elden-ring/db/unendurable-frenzy/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_083.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 31
+    },
+    "slots": 1
+  },
+  {
+    "id": "94944",
+    "name": "Unseen Blade",
+    "link": "https://eip.gg/elden-ring/db/unseen-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_192.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 12
+    },
+    "slots": 1
+  },
+  {
+    "id": "94945",
+    "name": "Unseen Form",
+    "link": "https://eip.gg/elden-ring/db/unseen-form/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_169.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 16
+    },
+    "slots": 1
+  },
+  {
+    "id": "94990",
+    "name": "Urgent Heal",
+    "link": "https://eip.gg/elden-ring/db/urgent-heal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_172.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 8
+    },
+    "slots": 1
+  },
+  {
+    "id": "95034",
+    "name": "Vyke’s Dragonbolt",
+    "link": "https://eip.gg/elden-ring/db/vykes-dragonbolt/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_199.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 23
+    },
+    "slots": 1
+  },
+  {
+    "id": "94969",
+    "name": "Whirl, O Flame!",
+    "link": "https://eip.gg/elden-ring/db/whirl-o-flame/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_196.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 13,
+      "Arcane": 1
+    },
+    "slots": 1
+  },
+  {
+    "id": "94989",
+    "name": "Wrath of Gold",
+    "link": "https://eip.gg/elden-ring/db/wrath-of-gold/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_035.png",
+    "tipo": "Incantation",
+    "atributosRequeridos": {
+      "Faith": 32
+    },
+    "slots": 1
+  },
+  {
+    "id": "94925",
+    "name": "Zamor Ice Storm",
+    "link": "https://eip.gg/elden-ring/db/zamor-ice-storm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_A_226.png",
+    "tipo": "Sorcery",
+    "atributosRequeridos": {
+      "Intelligence": 36
+    },
+    "slots": 1
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "id": "95762",
+    "name": "Ancestral Spirit’s Horn",
+    "link": "https://eip.gg/elden-ring/db/ancestral-spirits-horn/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_020.png",
+    "efeito": "Restores 3 FP upon defeating enemies.",
+    "weight": 1.2
+  },
+  {
+    "id": "95699",
+    "name": "Arrow’s Reach Talisman",
+    "link": "https://eip.gg/elden-ring/db/arrows-reach-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_125.png",
+    "efeito": "Raises the effective range of bows and crossbows by 65.",
+    "weight": 0.7
+  },
+  {
+    "id": "95704",
+    "name": "Arrow’s Sting Talisman",
+    "link": "https://eip.gg/elden-ring/db/arrows-sting-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_105.png",
+    "efeito": "Raises attack power of arrows and bolts by 10%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95656",
+    "name": "Arsenal Charm",
+    "link": "https://eip.gg/elden-ring/db/arsenal-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_208.png",
+    "efeito": "Raises max Equip Load by 15%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95657",
+    "name": "Arsenal Charm +1",
+    "link": "https://eip.gg/elden-ring/db/arsenal-charm-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_188.png",
+    "efeito": "Raises max Equip Load by 17%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95751",
+    "name": "Assassin’s Cerulean Dagger",
+    "link": "https://eip.gg/elden-ring/db/assassins-cerulean-dagger/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_161.png",
+    "efeito": "Critical hits restore 15 FP.",
+    "weight": 0.8
+  },
+  {
+    "id": "95750",
+    "name": "Assassin’s Crimson Dagger",
+    "link": "https://eip.gg/elden-ring/db/assassins-crimson-dagger/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_181.png",
+    "efeito": "Critical hits restore ~17% max HP.",
+    "weight": 0.8
+  },
+  {
+    "id": "95702",
+    "name": "Axe Talisman",
+    "link": "https://eip.gg/elden-ring/db/axe-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_045.png",
+    "efeito": "Raises the damage of charge attacks by 10%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95747",
+    "name": "Blessed Dew Talisman",
+    "link": "https://eip.gg/elden-ring/db/blessed-dew-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_002.png",
+    "efeito": "Restores 2 HP per second.",
+    "weight": 0.6
+  },
+  {
+    "id": "95700",
+    "name": "Blue Dancer Charm",
+    "link": "https://eip.gg/elden-ring/db/blue-dancer-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_085.png",
+    "efeito": "Raises attack power with lower equipment load, to a maximum of 15%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95741",
+    "name": "Blue-Feathered Branchsword",
+    "link": "https://eip.gg/elden-ring/db/blue-feathered-branchsword/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_122.png",
+    "efeito": "Reduces damage taken by 50% when HP is below 20%.",
+    "weight": 1.1
+  },
+  {
+    "id": "95730",
+    "name": "Boltdrake Talisman",
+    "link": "https://eip.gg/elden-ring/db/boltdrake-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_103.png",
+    "efeito": "Reduces lightning damage taken by 4%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95731",
+    "name": "Boltdrake Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/boltdrake-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_083.png",
+    "efeito": "Reduces lightning damage taken by 5%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95732",
+    "name": "Boltdrake Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/boltdrake-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_063.png",
+    "efeito": "Reduces lightning damage taken by 6%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95682",
+    "name": "Bull-Goat’s Talisman",
+    "link": "https://eip.gg/elden-ring/db/bull-goats-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_126.png",
+    "efeito": "Raises Poise by ~33%.",
+    "weight": 0.5
+  },
+  {
+    "id": "95754",
+    "name": "Carian Filigreed Crest",
+    "link": "https://eip.gg/elden-ring/db/carian-filigreed-crest/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_101.png",
+    "efeito": "Lowers FP consumed by skills by 25%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95650",
+    "name": "Cerulean Amber Medallion",
+    "link": "https://eip.gg/elden-ring/db/cerulean-amber-medallion/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_089.png",
+    "efeito": "Raises max FP by 7%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95651",
+    "name": "Cerulean Amber Medallion +1",
+    "link": "https://eip.gg/elden-ring/db/cerulean-amber-medallion-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_069.png",
+    "efeito": "Raises max FP by 9%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95652",
+    "name": "Cerulean Amber Medallion +2",
+    "link": "https://eip.gg/elden-ring/db/cerulean-amber-medallion-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_049.png",
+    "efeito": "Raises max FP by 11%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95746",
+    "name": "Cerulean Seed Talisman",
+    "link": "https://eip.gg/elden-ring/db/cerulean-seed-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_022.png",
+    "efeito": "Boosts FP restoration from Flask of Cerulean Tears.",
+    "weight": 0.8
+  },
+  {
+    "id": "95676",
+    "name": "Clarifying Horn Charm",
+    "link": "https://eip.gg/elden-ring/db/clarifying-horn-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_007.png",
+    "efeito": "Raises Focus (resistance to Madness and Sleep) by 90.",
+    "weight": 0.6
+  },
+  {
+    "id": "95677",
+    "name": "Clarifying Horn Charm +1",
+    "link": "https://eip.gg/elden-ring/db/clarifying-horn-charm-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_226.png",
+    "efeito": "Raises Focus (resistance to Madness and Sleep) by 140.",
+    "weight": 0.6
+  },
+  {
+    "id": "95707",
+    "name": "Claw Talisman",
+    "link": "https://eip.gg/elden-ring/db/claw-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_180.png",
+    "efeito": "Increases jump attack damage by 15%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95710",
+    "name": "Companion Jar",
+    "link": "https://eip.gg/elden-ring/db/companion-jar/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_120.png",
+    "efeito": "Increases potency of throwing pots by 20%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95753",
+    "name": "Concealing Veil",
+    "link": "https://eip.gg/elden-ring/db/concealing-veil/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_121.png",
+    "efeito": "Conceals wearer while crouching away from foes.",
+    "weight": 0.9
+  },
+  {
+    "id": "95752",
+    "name": "Crepus’s Vial",
+    "link": "https://eip.gg/elden-ring/db/crepuss-vial/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_141.png",
+    "efeito": "Eliminates all sound made by the wearer during movement.",
+    "weight": 0.7
+  },
+  {
+    "id": "95647",
+    "name": "Crimson Amber Medallion",
+    "link": "https://eip.gg/elden-ring/db/crimson-amber-medallion-3/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_149.png",
+    "efeito": "Raises max HP by 6%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95648",
+    "name": "Crimson Amber Medallion +1",
+    "link": "https://eip.gg/elden-ring/db/crimson-amber-medallion-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_019.png",
+    "efeito": "Raises max HP by 7%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95649",
+    "name": "Crimson Amber Medallion +2",
+    "link": "https://eip.gg/elden-ring/db/crimson-amber-medallion-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_109.png",
+    "efeito": "Raises max HP by 8%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95745",
+    "name": "Crimson Seed Talisman",
+    "link": "https://eip.gg/elden-ring/db/crimson-seed-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_042.png",
+    "efeito": "Boosts HP restoration from Flask of Crimson Tears by 20%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95740",
+    "name": "Crucible Feather Talisman",
+    "link": "https://eip.gg/elden-ring/db/crucible-feather-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_142.png",
+    "efeito": "Improves dodge rolling (increases total i-frames) but increases damage taken by 30%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95744",
+    "name": "Crucible Knot Talisman",
+    "link": "https://eip.gg/elden-ring/db/crucible-knot-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_062.png",
+    "efeito": "Reduces damage and impact of headshots.",
+    "weight": 0.5
+  },
+  {
+    "id": "95739",
+    "name": "Crucible Scale Talisman",
+    "link": "https://eip.gg/elden-ring/db/crucible-scale-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_162.png",
+    "efeito": "Reduces damage taken from critical hits by 30%.",
+    "weight": 1.1
+  },
+  {
+    "id": "95709",
+    "name": "Curved Sword Talisman",
+    "link": "https://eip.gg/elden-ring/db/curved-sword-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_140.png",
+    "efeito": "Increases guard counter damage by 20%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95757",
+    "name": "Daedicar’s Woe",
+    "link": "https://eip.gg/elden-ring/db/daedicars-woe/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_041.png",
+    "efeito": "Doubles damage taken.",
+    "weight": 0.8
+  },
+  {
+    "id": "95698",
+    "name": "Dagger Talisman",
+    "link": "https://eip.gg/elden-ring/db/dagger-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_145.png",
+    "efeito": "Increases critical hit damage by 17%.",
+    "weight": 1.1
+  },
+  {
+    "id": "95723",
+    "name": "Dragoncrest Greatshield Talisman",
+    "link": "https://eip.gg/elden-ring/db/dragoncrest-greatshield-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_004.png",
+    "efeito": "Reduces physical damage taken by 5%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95720",
+    "name": "Dragoncrest Shield Talisman",
+    "link": "https://eip.gg/elden-ring/db/dragoncrest-shield-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_064.png",
+    "efeito": "Reduces physical damage taken by 2%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95721",
+    "name": "Dragoncrest Shield Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/dragoncrest-shield-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_044.png",
+    "efeito": "Reduces physical damage taken by 3%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95722",
+    "name": "Dragoncrest Shield Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/dragoncrest-shield-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_024.png",
+    "efeito": "Reduces physical damage taken by 4%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95761",
+    "name": "Entwining Umbilical Cord",
+    "link": "https://eip.gg/elden-ring/db/entwining-umbilical-cord/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_200.png",
+    "efeito": "Changes demeanour of wearer's actions, switching gender animations.",
+    "weight": 0.5
+  },
+  {
+    "id": "95659",
+    "name": "Erdtree’s Favor",
+    "link": "https://eip.gg/elden-ring/db/erdtrees-favor/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_148.png",
+    "efeito": "Raises max HP by 3%, max Stamina by 7%, and max Equip Load by 5%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95660",
+    "name": "Erdtree’s Favor +1",
+    "link": "https://eip.gg/elden-ring/db/erdtrees-favor-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_128.png",
+    "efeito": "Raises max HP by 3.5%, max Stamina by 8.5%, and max Equip Load by 6.5%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95661",
+    "name": "Erdtree’s Favor +2",
+    "link": "https://eip.gg/elden-ring/db/erdtrees-favor-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_108.png",
+    "efeito": "Legendary talisman. Raises max HP by 4%, max Stamina by 10%, and max Equip Load by 8%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95714",
+    "name": "Faithful’s Canvas Talisman",
+    "link": "https://eip.gg/elden-ring/db/faithfuls-canvas-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_164.png",
+    "efeito": "Increases damage of incantations by 4%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95690",
+    "name": "Fire Scorpion Charm",
+    "link": "https://eip.gg/elden-ring/db/fire-scorpion-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_066.png",
+    "efeito": "Raises the damage of fire attacks by 12% (8% in PvP), but increases Physical damage taken by 10% (15% in PvP).",
+    "weight": 0.8
+  },
+  {
+    "id": "95727",
+    "name": "Flamedrake Talisman",
+    "link": "https://eip.gg/elden-ring/db/flamedrake-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_163.png",
+    "efeito": "Reduces fire damage taken by 4%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95728",
+    "name": "Flamedrake Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/flamedrake-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_143.png",
+    "efeito": "Reduces fire damage taken by 5%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95729",
+    "name": "Flamedrake Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/flamedrake-talisman-2-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_123.png",
+    "efeito": "Reduces fire damage taken by 6%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95715",
+    "name": "Flock’s Canvas Talisman",
+    "link": "https://eip.gg/elden-ring/db/flocks-canvas-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_144.png",
+    "efeito": "Increases damage of incantations by 8%.",
+    "weight": 1
+  },
+  {
+    "id": "95759",
+    "name": "Furled Finger’s Trick-Mirror",
+    "link": "https://eip.gg/elden-ring/db/furled-fingers-trick-mirror/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_001.png",
+    "efeito": "Take on appearance of a Host of Fingers.",
+    "weight": 0.7
+  },
+  {
+    "id": "95719",
+    "name": "Godfrey Icon",
+    "link": "https://eip.gg/elden-ring/db/godfrey-icon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_080.png",
+    "efeito": "Increases the damage of charged spells and skills by 15%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95749",
+    "name": "Godskin Swaddling Cloth",
+    "link": "https://eip.gg/elden-ring/db/godskin-swaddling-cloth/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_201.png",
+    "efeito": "After 4 attacks, further successive attacks restore ~5% of max HP",
+    "weight": 0.9
+  },
+  {
+    "id": "95669",
+    "name": "Gold Scarab",
+    "link": "https://eip.gg/elden-ring/db/gold-scarab/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_147.png",
+    "efeito": "Increases runes gained from defeating enemies by ~20%.",
+    "weight": 1.2
+  },
+  {
+    "id": "95713",
+    "name": "Graven-Mass Talisman",
+    "link": "https://eip.gg/elden-ring/db/graven-mass-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_184.png",
+    "efeito": "Increases damage of sorceries by 8%.",
+    "weight": 1
+  },
+  {
+    "id": "95712",
+    "name": "Graven-School Talisman",
+    "link": "https://eip.gg/elden-ring/db/graven-school-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_204.png",
+    "efeito": "Increases damage of sorceries by 4%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95658",
+    "name": "Great-Jar’s Arsenal",
+    "link": "https://eip.gg/elden-ring/db/great-jars-arsenal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_168.png",
+    "efeito": "Raises max Equip Load by 19%.",
+    "weight": 1.5
+  },
+  {
+    "id": "95743",
+    "name": "Greatshield Talisman",
+    "link": "https://eip.gg/elden-ring/db/greatshield-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_082.png",
+    "efeito": "Increases guard stability by 10%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95671",
+    "name": "Green Turtle Talisman",
+    "link": "https://eip.gg/elden-ring/db/green-turtle-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_107.png",
+    "efeito": "Raises Stamina recovery speed by 8 points per second.",
+    "weight": 0.7
+  },
+  {
+    "id": "95733",
+    "name": "Haligdrake Talisman",
+    "link": "https://eip.gg/elden-ring/db/haligdrake-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_043.png",
+    "efeito": "Reduces holy damage taken by 4%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95734",
+    "name": "Haligdrake Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/haligdrake-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_023.png",
+    "efeito": "Reduces holy damage taken by 5%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95735",
+    "name": "Haligdrake Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/haligdrake-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_003.png",
+    "efeito": "Reduces holy damage taken by 6%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95695",
+    "name": "Hammer Talisman",
+    "link": "https://eip.gg/elden-ring/db/hammer-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_205.png",
+    "efeito": "Increases stamina damage on blocking foes by 20%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95760",
+    "name": "Host’s Trick-Mirror",
+    "link": "https://eip.gg/elden-ring/db/hosts-trick-mirror/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_220.png",
+    "efeito": "Take on appearance of a cooperator.",
+    "weight": 0.7
+  },
+  {
+    "id": "95674",
+    "name": "Immunizing Horn Charm",
+    "link": "https://eip.gg/elden-ring/db/immunizing-horn-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_047.png",
+    "efeito": "Raises Immunity (resistance to Poison and Rot) by 90.",
+    "weight": 0.6
+  },
+  {
+    "id": "95675",
+    "name": "Immunizing Horn Charm +1",
+    "link": "https://eip.gg/elden-ring/db/immunizing-horn-charm-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_027.png",
+    "efeito": "Raises Immunity (resistance to Poison and Rot) by 140.",
+    "weight": 0.6
+  },
+  {
+    "id": "95706",
+    "name": "Kindred of Rot’s Exultation",
+    "link": "https://eip.gg/elden-ring/db/kindred-of-rots-exultation/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_224.png",
+    "efeito": "Poisoning or rot in vicinity increases attack power by 20% for 20 seconds.",
+    "weight": 0.9
+  },
+  {
+    "id": "95703",
+    "name": "Lance Talisman",
+    "link": "https://eip.gg/elden-ring/db/lance-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_025.png",
+    "efeito": "Raises the damage of attacks on horseback by 15%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95689",
+    "name": "Lightning Scorpion Charm",
+    "link": "https://eip.gg/elden-ring/db/lightning-scorpion-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_086.png",
+    "efeito": "Raises the damage of lightning attacks by 12% (8% in PvP), but increases Physical damage taken by 10% (15% in PvP).",
+    "weight": 0.8
+  },
+  {
+    "id": "95755",
+    "name": "Longtail Cat Talisman",
+    "link": "https://eip.gg/elden-ring/db/longtail-cat-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_081.png",
+    "efeito": "Renders the wearer immune to fall damage.",
+    "weight": 0.6
+  },
+  {
+    "id": "95705",
+    "name": "Lord of Blood’s Exultation",
+    "link": "https://eip.gg/elden-ring/db/lord-of-bloods-exultation/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_005.png",
+    "efeito": "Blood loss in vicinity increases attack power by 20% for 20 seconds.",
+    "weight": 0.9
+  },
+  {
+    "id": "95688",
+    "name": "Magic Scorpion Charm",
+    "link": "https://eip.gg/elden-ring/db/magic-scorpion-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_106.png",
+    "efeito": "Raises the damage of magic attacks by 12% (8% in PvP), but increases Physical damage taken by 10% (15% in PvP).",
+    "weight": 0.8
+  },
+  {
+    "id": "95683",
+    "name": "Marika’s Scarseal",
+    "link": "https://eip.gg/elden-ring/db/marikas-scarseal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_048.png",
+    "efeito": "Raises Mind, Intelligence, Faith, and Arcane by 3, but increases damage taken by 10%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95684",
+    "name": "Marika’s Soreseal",
+    "link": "https://eip.gg/elden-ring/db/marikas-soreseal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_028.png",
+    "efeito": "Raises Mind, Intelligence, Faith, and Arcane by 5, but increases damage taken by 15%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95687",
+    "name": "Millicent’s Prosthesis",
+    "link": "https://eip.gg/elden-ring/db/millicents-prosthesis-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_000.png",
+    "efeito": "Raises Dexterity by 5, and raises attack power with sucessive attacks.",
+    "weight": 1.6
+  },
+  {
+    "id": "95670",
+    "name": "Moon of Nokstella",
+    "link": "https://eip.gg/elden-ring/db/moon-of-nokstella/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_127.png",
+    "efeito": "Increases memory slots by 2.",
+    "weight": 0.8
+  },
+  {
+    "id": "95680",
+    "name": "Mottled Necklace",
+    "link": "https://eip.gg/elden-ring/db/mottled-necklace/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_166.png",
+    "efeito": "Raises Robustness, Immunity, and Focus by 40.",
+    "weight": 0.9
+  },
+  {
+    "id": "95681",
+    "name": "Mottled Necklace +1",
+    "link": "https://eip.gg/elden-ring/db/mottled-necklace-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_146.png",
+    "efeito": "Raises Robustness, Immunity, and Focus by 60.",
+    "weight": 0.9
+  },
+  {
+    "id": "95716",
+    "name": "Old Lord’s Talisman",
+    "link": "https://eip.gg/elden-ring/db/old-lords-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_124.png",
+    "efeito": "Extends spell effect duration by 30%.",
+    "weight": 0.5
+  },
+  {
+    "id": "95736",
+    "name": "Pearldrake Talisman",
+    "link": "https://eip.gg/elden-ring/db/pearldrake-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_222.png",
+    "efeito": "Reduces all non-physical damage taken by 2%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95737",
+    "name": "Pearldrake Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/pearldrake-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_202.png",
+    "efeito": "Reduces all non-physical damage taken by 3%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95738",
+    "name": "Pearldrake Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/pearldrake-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_182.png",
+    "efeito": "Reduces all non-physical damage taken by 4%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95711",
+    "name": "Perfumer’s Talisman",
+    "link": "https://eip.gg/elden-ring/db/perfumers-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_100.png",
+    "efeito": "Increaes potency of perfume items by 20%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95718",
+    "name": "Primal Glintstone Blade",
+    "link": "https://eip.gg/elden-ring/db/primal-glintstone-blade/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_084.png",
+    "efeito": "Spells consume 15% less FP, but maximum HP is reduced by 15%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95679",
+    "name": "Prince of Death’s Cyst",
+    "link": "https://eip.gg/elden-ring/db/prince-of-deaths-cyst/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_186.png",
+    "efeito": "Raises Vitality (resistance to Death) by 140.",
+    "weight": 0.6
+  },
+  {
+    "id": "95678",
+    "name": "Prince of Death’s Pustule",
+    "link": "https://eip.gg/elden-ring/db/prince-of-deaths-pustule/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_02_218.png",
+    "efeito": "Raises Vitality (resistance to Death) by 90.",
+    "weight": 0.6
+  },
+  {
+    "id": "95665",
+    "name": "Prosthesis-Wearer Heirloom",
+    "link": "https://eip.gg/elden-ring/db/prosthesis-wearer-heirloom/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_227.png",
+    "efeito": "Raises Dexterity by 5.",
+    "weight": 0.8
+  },
+  {
+    "id": "95717",
+    "name": "Radagon Icon",
+    "link": "https://eip.gg/elden-ring/db/radagon-icon/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_104.png",
+    "efeito": "Shortens spell casting time",
+    "weight": 0.7
+  },
+  {
+    "id": "95662",
+    "name": "Radagon’s Scarseal",
+    "link": "https://eip.gg/elden-ring/db/radagons-scarseal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_088.png",
+    "efeito": "Raises Vigor, Endurance, Strength, and Dexterity by 3, but increases damage taken by 10%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95663",
+    "name": "Radagon’s Soreseal",
+    "link": "https://eip.gg/elden-ring/db/radagons-soreseal/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_068.png",
+    "efeito": "Raises Vigor, Endurance, Strength, and Dexterity by 5, but increases damage taken by 15%.",
+    "weight": 0.8
+  },
+  {
+    "id": "95692",
+    "name": "Red-Feathered Branchsword",
+    "link": "https://eip.gg/elden-ring/db/red-feathered-branchsword/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_026.png",
+    "efeito": "Raises attack power by 20% when HP is below 20%.",
+    "weight": 1.4
+  },
+  {
+    "id": "95742",
+    "name": "Ritual Shield Talisman",
+    "link": "https://eip.gg/elden-ring/db/ritual-shield-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_102.png",
+    "efeito": "Reduces damage by 30% when HP is at maximum.",
+    "weight": 0.9
+  },
+  {
+    "id": "95693",
+    "name": "Ritual Sword Talisman",
+    "link": "https://eip.gg/elden-ring/db/ritual-sword-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_006.png",
+    "efeito": "Raises attack power by 10% while HP is at maximum.",
+    "weight": 0.9
+  },
+  {
+    "id": "95708",
+    "name": "Roar Medallion",
+    "link": "https://eip.gg/elden-ring/db/roar-medallion/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_160.png",
+    "efeito": "Enhances roars and breath attacks by 15%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95697",
+    "name": "Rotten Winged Sword Insignia",
+    "link": "https://eip.gg/elden-ring/db/rotten-winged-sword-insignia/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_165.png",
+    "efeito": "Greatly raises attack power with sucessive attacks.",
+    "weight": 1.4
+  },
+  {
+    "id": "95691",
+    "name": "Sacred Scorpion Charm",
+    "link": "https://eip.gg/elden-ring/db/sacred-scorpion-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_046.png",
+    "efeito": "Raises the damage of holy attacks by 12% (8% in PvP), but increases Physical damage taken by 10% (15% in PvP).",
+    "weight": 0.8
+  },
+  {
+    "id": "95758",
+    "name": "Sacrificial Twig",
+    "link": "https://eip.gg/elden-ring/db/sacrificial-twig/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_021.png",
+    "efeito": "Will be lost on death in place of runes",
+    "weight": 1
+  },
+  {
+    "id": "95756",
+    "name": "Shabriri’s Woe",
+    "link": "https://eip.gg/elden-ring/db/shabriris-woe/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_061.png",
+    "efeito": "Constantly attracts enemies' aggression.",
+    "weight": 0.6
+  },
+  {
+    "id": "95686",
+    "name": "Shard of Alexander",
+    "link": "https://eip.gg/elden-ring/db/shard-of-alexander/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_040.png",
+    "efeito": "Boosts the Attack Power of weapon skills by 15%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95668",
+    "name": "Silver Scarab",
+    "link": "https://eip.gg/elden-ring/db/silver-scarab/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_167.png",
+    "efeito": "Raises Item Discovery by 75.",
+    "weight": 1.2
+  },
+  {
+    "id": "95694",
+    "name": "Spear Talisman",
+    "link": "https://eip.gg/elden-ring/db/spear-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_225.png",
+    "efeito": "Raises guard counter damage on thrusting weapons by 15%.",
+    "weight": 0.5
+  },
+  {
+    "id": "95724",
+    "name": "Spelldrake Talisman",
+    "link": "https://eip.gg/elden-ring/db/spelldrake-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_223.png",
+    "efeito": "Reduces magical damage taken by 4%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95725",
+    "name": "Spelldrake Talisman +1",
+    "link": "https://eip.gg/elden-ring/db/spelldrake-talisman-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_203.png",
+    "efeito": "Reduces magical damage taken by 5%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95726",
+    "name": "Spelldrake Talisman +2",
+    "link": "https://eip.gg/elden-ring/db/spelldrake-talisman-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_183.png",
+    "efeito": "Reduces magical damage taken by 6%.",
+    "weight": 0.6
+  },
+  {
+    "id": "95672",
+    "name": "Stalwart Horn Charm",
+    "link": "https://eip.gg/elden-ring/db/stalwart-horn-charm/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_087.png",
+    "efeito": "Raises Robustness (resistance to Hemorrhage and Frostbite) by 90.",
+    "weight": 0.6
+  },
+  {
+    "id": "95673",
+    "name": "Stalwart Horn Charm +1",
+    "link": "https://eip.gg/elden-ring/db/stalwart-horn-charm-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_067.png",
+    "efeito": "Raises Robustness (resistance to Hemorrhage and Frostbite) by 140.",
+    "weight": 0.6
+  },
+  {
+    "id": "95666",
+    "name": "Stargazer Heirloom",
+    "link": "https://eip.gg/elden-ring/db/stargazer-heirloom/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_207.png",
+    "efeito": "Raises Intelligence by 5.",
+    "weight": 0.6
+  },
+  {
+    "id": "95664",
+    "name": "Starscourge Heirloom",
+    "link": "https://eip.gg/elden-ring/db/starscourge-heirloom/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_008.png",
+    "efeito": "Raises Strength by 5.",
+    "weight": 0.8
+  },
+  {
+    "id": "95748",
+    "name": "Taker’s Cameo",
+    "link": "https://eip.gg/elden-ring/db/takers-cameo/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_221.png",
+    "efeito": "Restores 6.8% of max HP when an enemey dies.",
+    "weight": 1
+  },
+  {
+    "id": "95701",
+    "name": "Twinblade Talisman",
+    "link": "https://eip.gg/elden-ring/db/twinblade-talisman/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_065.png",
+    "efeito": "Raises the damage of the final hit of chain attacks by 20%.",
+    "weight": 0.7
+  },
+  {
+    "id": "95667",
+    "name": "Two Fingers Heirloom",
+    "link": "https://eip.gg/elden-ring/db/two-fingers-heirloom-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_187.png",
+    "efeito": "Raises Faith by 5.",
+    "weight": 0.6
+  },
+  {
+    "id": "95653",
+    "name": "Viridian Amber Medallion",
+    "link": "https://eip.gg/elden-ring/db/viridian-amber-medallion/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_029.png",
+    "efeito": "Raises max Stamina by 11%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95654",
+    "name": "Viridian Amber Medallion +1",
+    "link": "https://eip.gg/elden-ring/db/viridian-amber-medallion-1/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_009.png",
+    "efeito": "Raises max Stamina by 13%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95655",
+    "name": "Viridian Amber Medallion +2",
+    "link": "https://eip.gg/elden-ring/db/viridian-amber-medallion-2/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_228.png",
+    "efeito": "Raises max Stamina by 15%.",
+    "weight": 0.3
+  },
+  {
+    "id": "95685",
+    "name": "Warrior Jar Shard",
+    "link": "https://eip.gg/elden-ring/db/warrior-jar-shard/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_060.png",
+    "efeito": "Boosts the Attack Power of weapon skills by 10%.",
+    "weight": 0.9
+  },
+  {
+    "id": "95696",
+    "name": "Winged Sword Insignia",
+    "link": "https://eip.gg/elden-ring/db/winged-sword-insignia/",
+    "imagem": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_06_185.png",
+    "efeito": "Raises attack power with sucessive attacks.",
+    "weight": 1.4
+  }
+]
